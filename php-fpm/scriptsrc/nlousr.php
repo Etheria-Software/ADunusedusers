@@ -39,8 +39,8 @@ version 1
 /*
 Name : James
 Alias : Shadow AKA ShadowGauardian507-IRL
-Contact : shadow@shadowguardian507-irl.tk
-Alternate contact : shadow@etheria-software.tk
+Contact : shadow@shadowguardian507-irl.uk
+Alternate contact : shadow@etheria-software.uk
 Note as an Anti-spam Measure I run graylisting on my mail servers, so new senders email will be held for some time before it
 arrives in my mail box,
 please ensure that the service you are sending from tolerates graylisting on target address (most normal mail systems are
